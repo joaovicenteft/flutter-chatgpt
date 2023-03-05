@@ -1,2 +1,2 @@
 # flutter-chatgpt
-Flutter code implementations adding CI
+Flutter code implementations adding CI/CD
